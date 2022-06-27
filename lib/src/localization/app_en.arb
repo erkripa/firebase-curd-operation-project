@@ -1,0 +1,6 @@
+{
+  "appTitle": "firebasecurdproject",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
